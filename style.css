@@ -1,0 +1,26 @@
+.dancing-script {
+    font-family: "Dancing Script", cursive;
+    font-size: 7rem;
+    color: whitesmoke;
+    text-align: center;
+  }
+
+body{
+background-color: #001F3F;
+}  
+
+.courgette-regular {
+    font-family: "Courgette";
+    font-weight: 400;
+    font-style: normal;
+    color: whitesmoke;
+  }
+
+  .jua-regular {
+    font-family: "Jua", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: whitesmoke;
+    font-size: 25px;
+  }
+  
